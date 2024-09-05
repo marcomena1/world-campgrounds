@@ -1,7 +1,7 @@
 All-in-one web app for managing campgrounds across the US. Each listing includes location details, owner info, pricing, ratings, reviews, and photo galleries. Plus, customers can interact with owners using a robust commenting system. The tech stack: Node.js, JavaScript, Mongoose, Express, Mapbox, Passport, Helmet, CSS, and Bootstrap.
 
 
-<<<<<<< HEAD
+
 Stunning landing page
 ![](Screenshots/1.png)
 Powerfull geolocation system
@@ -21,5 +21,4 @@ Genuine reviewing system
 ![](Screenshots/9.png)
 ![](Screenshots/5.png)
 ![](Screenshots/11.png)
-=======
->>>>>>> 16d4419cd2982af8e5cbd328b562afff669e27b7
+
